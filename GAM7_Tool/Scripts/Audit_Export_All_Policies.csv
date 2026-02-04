@@ -1,0 +1,183 @@
+name,orgUnitPath,parentOrgUnitPath,direct,additionalTargetKeys,additionalTargetKeys.0.name,additionalTargetKeys.0.value,fields,fields.0.name,fields.0.value,fields.0.value.allowIpConfiguration,fields.0.value.allowNameServersConfiguration,fields.0.value.automaticallyConnect,fields.0.value.hiddenSsid,fields.0.value.name,fields.0.value.nameServerSelection,fields.0.value.passphrase,fields.0.value.proxySettings.type,fields.0.value.security,fields.0.value.selections.keyboardIds,fields.0.value.selections.keyboardIds.0,fields.0.value.ssid,fields.1.name,fields.1.value,,,,,,,,,,,,
+chrome.devices.DeviceLoginScreenAutocompleteDomainGroup,/Devices,/Devices,TRUE,0,,,2,loginScreenDomainAutoComplete,TRUE,,,,,,,,,,,,,loginScreenDomainAutoCompletePrefix,meadowcroft.surrey.sch.uk,,,,,,,,,,,,
+chrome.devices.DisabledDeviceReturnInstructions,/Devices,/Devices,TRUE,0,,,1,deviceDisabledMessage,"Please return this device to Meadowcroft Community Primary School 
+
+Little Green Ln
+Chertsey
+Surrey, United Kingdom
+KT16 9PT",,,,,,,,,,,,,,,,,,,,,,,,,,
+chrome.devices.SignInKeyboard,/Devices,/Devices,TRUE,0,,,1,loginScreenKeyboardSelections,,,,,,,,,,,1,xkb:gb:extd:eng,,,,,,,,,,,,,,,
+chrome.devices.SignInRestriction,/Devices,/Devices,TRUE,0,,,2,deviceAllowNewUsers,RESTRICTED_LIST,,,,,,,,,,,,,userAllowlist,*@meadowcroft.surrey.sch.uk,,,,,,,,,,,,
+chrome.users.SecondaryGoogleAccountSignin,/Devices,/Devices,TRUE,0,,,1,secondaryGoogleAccountSigninAllowed,UNSET,,,,,,,,,,,,,,,,,,,,,,,,,,
+chrome.networks.wifi.AllowForChromeDevices,/Devices,/Devices,TRUE,1,network_id,MCS-Devices-Wifi,1,allowForChromeDevices,TRUE,,,,,,,,,,,,,,,,,,,,,,,,,,
+chrome.networks.wifi.AllowForChromeUsers,/Devices,/Devices,TRUE,1,network_id,MCS-Devices-Wifi,1,allowForChromeUsers,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,
+chrome.networks.wifi.Details,/Devices,/Devices,TRUE,1,network_id,MCS-Devices-Wifi,1,details,,FALSE,FALSE,TRUE,FALSE,MCS-Devices,NAME_SERVERS_ENUM_AUTOMATIC,******,Direct,WPA-PSK,,,MCS-Devices,,,,,,,,,,,,,,
+name,orgUnitPath,parentOrgUnitPath,direct,additionalTargetKeys,additionalTargetKeys.0.name,additionalTargetKeys.0.value,fields,fields.0.name,fields.0.value,fields.0.value.allowIpConfiguration,fields.0.value.allowNameServersConfiguration,fields.0.value.automaticallyConnect,fields.0.value.hiddenSsid,fields.0.value.name,fields.0.value.nameServerSelection,fields.0.value.passphrase,fields.0.value.proxySettings.type,fields.0.value.security,fields.0.value.selections.keyboardIds,fields.0.value.selections.keyboardIds.0,fields.0.value.ssid,fields.1.name,fields.1.value,,,,,,,,,,,,
+chrome.devices.DeviceLoginScreenAutocompleteDomainGroup,/Devices/Governors,/Devices,FALSE,0,,,2,loginScreenDomainAutoComplete,TRUE,,,,,,,,,,,,,loginScreenDomainAutoCompletePrefix,meadowcroft.surrey.sch.uk,,,,,,,,,,,,
+chrome.devices.DisabledDeviceReturnInstructions,/Devices/Governors,/Devices,FALSE,0,,,1,deviceDisabledMessage,"Please return this device to Meadowcroft Community Primary School 
+
+Little Green Ln
+Chertsey
+Surrey, United Kingdom
+KT16 9PT",,,,,,,,,,,,,,,,,,,,,,,,,,
+chrome.devices.SignInKeyboard,/Devices/Governors,/Devices,FALSE,0,,,1,loginScreenKeyboardSelections,,,,,,,,,,,1,xkb:gb:extd:eng,,,,,,,,,,,,,,,
+chrome.devices.SignInRestriction,/Devices/Governors,/Devices,FALSE,0,,,2,deviceAllowNewUsers,RESTRICTED_LIST,,,,,,,,,,,,,userAllowlist,*@meadowcroft.surrey.sch.uk,,,,,,,,,,,,
+chrome.users.SecondaryGoogleAccountSignin,/Devices/Governors,/Devices,FALSE,0,,,1,secondaryGoogleAccountSigninAllowed,UNSET,,,,,,,,,,,,,,,,,,,,,,,,,,
+chrome.networks.wifi.AllowForChromeDevices,/Devices/Governors,/Devices,FALSE,1,network_id,MCS-Devices-Wifi,1,allowForChromeDevices,TRUE,,,,,,,,,,,,,,,,,,,,,,,,,,
+chrome.networks.wifi.AllowForChromeUsers,/Devices/Governors,/Devices,FALSE,1,network_id,MCS-Devices-Wifi,1,allowForChromeUsers,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,
+chrome.networks.wifi.Details,/Devices/Governors,/Devices,FALSE,1,network_id,MCS-Devices-Wifi,1,details,,FALSE,FALSE,TRUE,FALSE,MCS-Devices,NAME_SERVERS_ENUM_AUTOMATIC,******,Direct,WPA-PSK,,,MCS-Devices,,,,,,,,,,,,,,
+name,orgUnitPath,parentOrgUnitPath,direct,additionalTargetKeys,additionalTargetKeys.0.name,additionalTargetKeys.0.value,fields,fields.0.name,fields.0.value,fields.0.value.allowIpConfiguration,fields.0.value.allowNameServersConfiguration,fields.0.value.automaticallyConnect,fields.0.value.hiddenSsid,fields.0.value.name,fields.0.value.nameServerSelection,fields.0.value.passphrase,fields.0.value.proxySettings.type,fields.0.value.security,fields.0.value.selections.keyboardIds,fields.0.value.selections.keyboardIds.0,fields.0.value.ssid,fields.1.name,fields.1.value,,,,,,,,,,,,
+chrome.devices.DeviceLoginScreenAutocompleteDomainGroup,/Devices/Guest,/Devices,FALSE,0,,,2,loginScreenDomainAutoComplete,TRUE,,,,,,,,,,,,,loginScreenDomainAutoCompletePrefix,meadowcroft.surrey.sch.uk,,,,,,,,,,,,
+chrome.devices.DisabledDeviceReturnInstructions,/Devices/Guest,/Devices,FALSE,0,,,1,deviceDisabledMessage,"Please return this device to Meadowcroft Community Primary School 
+
+Little Green Ln
+Chertsey
+Surrey, United Kingdom
+KT16 9PT",,,,,,,,,,,,,,,,,,,,,,,,,,
+chrome.devices.SignInKeyboard,/Devices/Guest,/Devices,FALSE,0,,,1,loginScreenKeyboardSelections,,,,,,,,,,,1,xkb:gb:extd:eng,,,,,,,,,,,,,,,
+chrome.devices.SignInRestriction,/Devices/Guest,/Devices,FALSE,0,,,2,deviceAllowNewUsers,RESTRICTED_LIST,,,,,,,,,,,,,userAllowlist,*@meadowcroft.surrey.sch.uk,,,,,,,,,,,,
+chrome.users.SecondaryGoogleAccountSignin,/Devices/Guest,/Devices,FALSE,0,,,1,secondaryGoogleAccountSigninAllowed,UNSET,,,,,,,,,,,,,,,,,,,,,,,,,,
+chrome.networks.wifi.AllowForChromeDevices,/Devices/Guest,/Devices,FALSE,1,network_id,MCS-Devices-Wifi,1,allowForChromeDevices,TRUE,,,,,,,,,,,,,,,,,,,,,,,,,,
+chrome.networks.wifi.AllowForChromeUsers,/Devices/Guest,/Devices,FALSE,1,network_id,MCS-Devices-Wifi,1,allowForChromeUsers,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,
+chrome.networks.wifi.Details,/Devices/Guest,/Devices,FALSE,1,network_id,MCS-Devices-Wifi,1,details,,FALSE,FALSE,TRUE,FALSE,MCS-Devices,NAME_SERVERS_ENUM_AUTOMATIC,******,Direct,WPA-PSK,,,MCS-Devices,,,,,,,,,,,,,,
+name,orgUnitPath,parentOrgUnitPath,direct,additionalTargetKeys,additionalTargetKeys.0.name,additionalTargetKeys.0.value,fields,fields.0.name,fields.0.value,fields.0.value.allowIpConfiguration,fields.0.value.allowNameServersConfiguration,fields.0.value.automaticallyConnect,fields.0.value.hiddenSsid,fields.0.value.name,fields.0.value.nameServerSelection,fields.0.value.passphrase,fields.0.value.proxySettings.type,fields.0.value.security,fields.0.value.selections.keyboardIds,fields.0.value.selections.keyboardIds.0,fields.0.value.ssid,fields.1.name,fields.1.value,,,,,,,,,,,,
+chrome.devices.DeviceLoginScreenAutocompleteDomainGroup,/Devices/Staff,/Devices,FALSE,0,,,2,loginScreenDomainAutoComplete,TRUE,,,,,,,,,,,,,loginScreenDomainAutoCompletePrefix,meadowcroft.surrey.sch.uk,,,,,,,,,,,,
+chrome.devices.DisabledDeviceReturnInstructions,/Devices/Staff,/Devices,FALSE,0,,,1,deviceDisabledMessage,"Please return this device to Meadowcroft Community Primary School 
+
+Little Green Ln
+Chertsey
+Surrey, United Kingdom
+KT16 9PT",,,,,,,,,,,,,,,,,,,,,,,,,,
+chrome.devices.LoginScreenNamesAndPhotos,/Devices/Staff,/Devices/Staff,TRUE,0,,,1,showUserNames,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,
+chrome.devices.SignInKeyboard,/Devices/Staff,/Devices,FALSE,0,,,1,loginScreenKeyboardSelections,,,,,,,,,,,1,xkb:gb:extd:eng,,,,,,,,,,,,,,,
+chrome.devices.SignInRestriction,/Devices/Staff,/Devices,FALSE,0,,,2,deviceAllowNewUsers,RESTRICTED_LIST,,,,,,,,,,,,,userAllowlist,*@meadowcroft.surrey.sch.uk,,,,,,,,,,,,
+chrome.users.DeviceEnrollment,/Devices/Staff,/Devices/Staff,TRUE,0,,,1,autoDevicePlacementEnabled,TRUE,,,,,,,,,,,,,,,,,,,,,,,,,,
+chrome.users.SecondaryGoogleAccountSignin,/Devices/Staff,/Devices,FALSE,0,,,1,secondaryGoogleAccountSigninAllowed,UNSET,,,,,,,,,,,,,,,,,,,,,,,,,,
+chrome.networks.wifi.AllowForChromeDevices,/Devices/Staff,/Devices,FALSE,1,network_id,MCS-Devices-Wifi,1,allowForChromeDevices,TRUE,,,,,,,,,,,,,,,,,,,,,,,,,,
+chrome.networks.wifi.AllowForChromeUsers,/Devices/Staff,/Devices,FALSE,1,network_id,MCS-Devices-Wifi,1,allowForChromeUsers,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,
+chrome.networks.wifi.Details,/Devices/Staff,/Devices,FALSE,1,network_id,MCS-Devices-Wifi,1,details,,FALSE,FALSE,TRUE,FALSE,MCS-Devices,NAME_SERVERS_ENUM_AUTOMATIC,******,Direct,WPA-PSK,,,MCS-Devices,,,,,,,,,,,,,,
+name,orgUnitPath,parentOrgUnitPath,direct,additionalTargetKeys,additionalTargetKeys.0.name,additionalTargetKeys.0.value,fields,fields.0.name,fields.0.value,fields.0.value.allowIpConfiguration,fields.0.value.allowNameServersConfiguration,fields.0.value.automaticallyConnect,fields.0.value.hiddenSsid,fields.0.value.name,fields.0.value.nameServerSelection,fields.0.value.passphrase,fields.0.value.proxySettings.type,fields.0.value.security,fields.0.value.selections.keyboardIds,fields.0.value.selections.keyboardIds.0,fields.0.value.ssid,fields.1.name,fields.1.value,,,,,,,,,,,,
+chrome.devices.DeviceLoginScreenAutocompleteDomainGroup,/Devices/Status,/Devices,FALSE,0,,,2,loginScreenDomainAutoComplete,TRUE,,,,,,,,,,,,,loginScreenDomainAutoCompletePrefix,meadowcroft.surrey.sch.uk,,,,,,,,,,,,
+chrome.devices.DisabledDeviceReturnInstructions,/Devices/Status,/Devices,FALSE,0,,,1,deviceDisabledMessage,"Please return this device to Meadowcroft Community Primary School 
+
+Little Green Ln
+Chertsey
+Surrey, United Kingdom
+KT16 9PT",,,,,,,,,,,,,,,,,,,,,,,,,,
+chrome.devices.SignInKeyboard,/Devices/Status,/Devices,FALSE,0,,,1,loginScreenKeyboardSelections,,,,,,,,,,,1,xkb:gb:extd:eng,,,,,,,,,,,,,,,
+chrome.devices.SignInRestriction,/Devices/Status,/Devices,FALSE,0,,,2,deviceAllowNewUsers,RESTRICTED_LIST,,,,,,,,,,,,,userAllowlist,*@meadowcroft.surrey.sch.uk,,,,,,,,,,,,
+chrome.users.SecondaryGoogleAccountSignin,/Devices/Status,/Devices,FALSE,0,,,1,secondaryGoogleAccountSigninAllowed,UNSET,,,,,,,,,,,,,,,,,,,,,,,,,,
+chrome.networks.wifi.AllowForChromeDevices,/Devices/Status,/Devices,FALSE,1,network_id,MCS-Devices-Wifi,1,allowForChromeDevices,TRUE,,,,,,,,,,,,,,,,,,,,,,,,,,
+chrome.networks.wifi.AllowForChromeUsers,/Devices/Status,/Devices,FALSE,1,network_id,MCS-Devices-Wifi,1,allowForChromeUsers,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,
+chrome.networks.wifi.Details,/Devices/Status,/Devices,FALSE,1,network_id,MCS-Devices-Wifi,1,details,,FALSE,FALSE,TRUE,FALSE,MCS-Devices,NAME_SERVERS_ENUM_AUTOMATIC,******,Direct,WPA-PSK,,,MCS-Devices,,,,,,,,,,,,,,
+name,orgUnitPath,parentOrgUnitPath,direct,additionalTargetKeys,additionalTargetKeys.0.name,additionalTargetKeys.0.value,fields,fields.0.name,fields.0.value,fields.0.value.allowIpConfiguration,fields.0.value.allowNameServersConfiguration,fields.0.value.automaticallyConnect,fields.0.value.hiddenSsid,fields.0.value.name,fields.0.value.nameServerSelection,fields.0.value.passphrase,fields.0.value.proxySettings.type,fields.0.value.security,fields.0.value.selections.keyboardIds,fields.0.value.selections.keyboardIds.0,fields.0.value.ssid,fields.1.name,fields.1.value,,,,,,,,,,,,
+chrome.devices.DeviceLoginScreenAutocompleteDomainGroup,/Devices/Status/Decommissioned,/Devices,FALSE,0,,,2,loginScreenDomainAutoComplete,TRUE,,,,,,,,,,,,,loginScreenDomainAutoCompletePrefix,meadowcroft.surrey.sch.uk,,,,,,,,,,,,
+chrome.devices.DisabledDeviceReturnInstructions,/Devices/Status/Decommissioned,/Devices,FALSE,0,,,1,deviceDisabledMessage,"Please return this device to Meadowcroft Community Primary School 
+
+Little Green Ln
+Chertsey
+Surrey, United Kingdom
+KT16 9PT",,,,,,,,,,,,,,,,,,,,,,,,,,
+chrome.devices.SignInKeyboard,/Devices/Status/Decommissioned,/Devices,FALSE,0,,,1,loginScreenKeyboardSelections,,,,,,,,,,,1,xkb:gb:extd:eng,,,,,,,,,,,,,,,
+chrome.devices.SignInRestriction,/Devices/Status/Decommissioned,/Devices,FALSE,0,,,2,deviceAllowNewUsers,RESTRICTED_LIST,,,,,,,,,,,,,userAllowlist,*@meadowcroft.surrey.sch.uk,,,,,,,,,,,,
+chrome.users.SecondaryGoogleAccountSignin,/Devices/Status/Decommissioned,/Devices,FALSE,0,,,1,secondaryGoogleAccountSigninAllowed,UNSET,,,,,,,,,,,,,,,,,,,,,,,,,,
+chrome.networks.wifi.AllowForChromeDevices,/Devices/Status/Decommissioned,/Devices,FALSE,1,network_id,MCS-Devices-Wifi,1,allowForChromeDevices,TRUE,,,,,,,,,,,,,,,,,,,,,,,,,,
+chrome.networks.wifi.AllowForChromeUsers,/Devices/Status/Decommissioned,/Devices,FALSE,1,network_id,MCS-Devices-Wifi,1,allowForChromeUsers,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,
+chrome.networks.wifi.Details,/Devices/Status/Decommissioned,/Devices,FALSE,1,network_id,MCS-Devices-Wifi,1,details,,FALSE,FALSE,TRUE,FALSE,MCS-Devices,NAME_SERVERS_ENUM_AUTOMATIC,******,Direct,WPA-PSK,,,MCS-Devices,,,,,,,,,,,,,,
+name,orgUnitPath,parentOrgUnitPath,direct,additionalTargetKeys,additionalTargetKeys.0.name,additionalTargetKeys.0.value,fields,fields.0.name,fields.0.value,fields.0.value.allowIpConfiguration,fields.0.value.allowNameServersConfiguration,fields.0.value.automaticallyConnect,fields.0.value.hiddenSsid,fields.0.value.name,fields.0.value.nameServerSelection,fields.0.value.passphrase,fields.0.value.proxySettings.type,fields.0.value.security,fields.0.value.selections.keyboardIds,fields.0.value.selections.keyboardIds.0,fields.0.value.ssid,fields.1.name,fields.1.value,,,,,,,,,,,,
+chrome.devices.DeviceLoginScreenAutocompleteDomainGroup,/Devices/Status/Deprovisioned,/Devices,FALSE,0,,,2,loginScreenDomainAutoComplete,TRUE,,,,,,,,,,,,,loginScreenDomainAutoCompletePrefix,meadowcroft.surrey.sch.uk,,,,,,,,,,,,
+chrome.devices.DisabledDeviceReturnInstructions,/Devices/Status/Deprovisioned,/Devices,FALSE,0,,,1,deviceDisabledMessage,"Please return this device to Meadowcroft Community Primary School 
+
+Little Green Ln
+Chertsey
+Surrey, United Kingdom
+KT16 9PT",,,,,,,,,,,,,,,,,,,,,,,,,,
+chrome.devices.SignInKeyboard,/Devices/Status/Deprovisioned,/Devices,FALSE,0,,,1,loginScreenKeyboardSelections,,,,,,,,,,,1,xkb:gb:extd:eng,,,,,,,,,,,,,,,
+chrome.devices.SignInRestriction,/Devices/Status/Deprovisioned,/Devices,FALSE,0,,,2,deviceAllowNewUsers,RESTRICTED_LIST,,,,,,,,,,,,,userAllowlist,*@meadowcroft.surrey.sch.uk,,,,,,,,,,,,
+chrome.users.SecondaryGoogleAccountSignin,/Devices/Status/Deprovisioned,/Devices,FALSE,0,,,1,secondaryGoogleAccountSigninAllowed,UNSET,,,,,,,,,,,,,,,,,,,,,,,,,,
+chrome.networks.wifi.AllowForChromeDevices,/Devices/Status/Deprovisioned,/Devices,FALSE,1,network_id,MCS-Devices-Wifi,1,allowForChromeDevices,TRUE,,,,,,,,,,,,,,,,,,,,,,,,,,
+chrome.networks.wifi.AllowForChromeUsers,/Devices/Status/Deprovisioned,/Devices,FALSE,1,network_id,MCS-Devices-Wifi,1,allowForChromeUsers,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,
+chrome.networks.wifi.Details,/Devices/Status/Deprovisioned,/Devices,FALSE,1,network_id,MCS-Devices-Wifi,1,details,,FALSE,FALSE,TRUE,FALSE,MCS-Devices,NAME_SERVERS_ENUM_AUTOMATIC,******,Direct,WPA-PSK,,,MCS-Devices,,,,,,,,,,,,,,
+name,orgUnitPath,parentOrgUnitPath,direct,additionalTargetKeys,additionalTargetKeys.0.name,additionalTargetKeys.0.value,fields,fields.0.name,fields.0.value,fields.0.value.allowIpConfiguration,fields.0.value.allowNameServersConfiguration,fields.0.value.automaticallyConnect,fields.0.value.hiddenSsid,fields.0.value.name,fields.0.value.nameServerSelection,fields.0.value.passphrase,fields.0.value.proxySettings.type,fields.0.value.security,fields.0.value.selections.keyboardIds,fields.0.value.selections.keyboardIds.0,fields.0.value.ssid,fields.1.name,fields.1.value,,,,,,,,,,,,
+chrome.devices.DeviceLoginScreenAutocompleteDomainGroup,/Devices/Students,/Devices/Students,TRUE,0,,,2,loginScreenDomainAutoComplete,TRUE,,,,,,,,,,,,,loginScreenDomainAutoCompletePrefix,meadowcroft.surrey.sch.uk,,,,,,,,,,,,
+chrome.devices.DisabledDeviceReturnInstructions,/Devices/Students,/Devices,FALSE,0,,,1,deviceDisabledMessage,"Please return this device to Meadowcroft Community Primary School 
+
+Little Green Ln
+Chertsey
+Surrey, United Kingdom
+KT16 9PT",,,,,,,,,,,,,,,,,,,,,,,,,,
+chrome.devices.LoginScreenNamesAndPhotos,/Devices/Students,/Devices/Students,TRUE,0,,,1,showUserNames,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,
+chrome.devices.SignInKeyboard,/Devices/Students,/Devices,FALSE,0,,,1,loginScreenKeyboardSelections,,,,,,,,,,,1,xkb:gb:extd:eng,,,,,,,,,,,,,,,
+chrome.devices.SignInRestriction,/Devices/Students,/Devices,FALSE,0,,,2,deviceAllowNewUsers,RESTRICTED_LIST,,,,,,,,,,,,,userAllowlist,*@meadowcroft.surrey.sch.uk,,,,,,,,,,,,
+chrome.users.DeveloperTools,/Devices/Students,/Devices/Students,TRUE,0,,,2,developerToolsAvailability,NEVER_ALLOW_DEVELOPER_TOOLS,,,,,,,,,,,,,extensionDeveloperModeSettings,UNSET,,,,,,,,,,,,
+chrome.users.DeviceEnrollment,/Devices/Students,/Devices/Students,TRUE,0,,,1,autoDevicePlacementEnabled,TRUE,,,,,,,,,,,,,,,,,,,,,,,,,,
+chrome.users.SecondaryGoogleAccountSignin,/Devices/Students,/Devices,FALSE,0,,,1,secondaryGoogleAccountSigninAllowed,UNSET,,,,,,,,,,,,,,,,,,,,,,,,,,
+chrome.networks.wifi.AllowForChromeDevices,/Devices/Students,/Devices,FALSE,1,network_id,MCS-Devices-Wifi,1,allowForChromeDevices,TRUE,,,,,,,,,,,,,,,,,,,,,,,,,,
+chrome.networks.wifi.AllowForChromeUsers,/Devices/Students,/Devices,FALSE,1,network_id,MCS-Devices-Wifi,1,allowForChromeUsers,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,
+chrome.networks.wifi.Details,/Devices/Students,/Devices,FALSE,1,network_id,MCS-Devices-Wifi,1,details,,FALSE,FALSE,TRUE,FALSE,MCS-Devices,NAME_SERVERS_ENUM_AUTOMATIC,******,Direct,WPA-PSK,,,MCS-Devices,,,,,,,,,,,,,,
+name,orgUnitPath,parentOrgUnitPath,direct,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+name,orgUnitPath,parentOrgUnitPath,direct,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+name,orgUnitPath,parentOrgUnitPath,direct,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+name,orgUnitPath,parentOrgUnitPath,direct,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+name,orgUnitPath,parentOrgUnitPath,direct,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+name,orgUnitPath,parentOrgUnitPath,direct,additionalTargetKeys,additionalTargetKeys.0.name,additionalTargetKeys.0.value,fields,fields.0.name,fields.0.value,fields.1.name,fields.1.value,fields.2.name,fields.2.value,fields.3.name,fields.3.value,fields.4.name,fields.4.value,,,,,,,,,,,,,,,,,,
+chrome.users.AutofillAddressEnabled,/Users,/Users,TRUE,0,,,1,autofillAddressEnabled,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,
+chrome.users.AutofillCreditCardEnabled,/Users,/Users,TRUE,0,,,1,autofillCreditCardEnabled,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,
+chrome.users.PrivacySandboxPromptEnabled,/Users,/Users,TRUE,0,,,5,privacySandboxPromptEnabled,FALSE,privacySandboxAdTopicsEnabled,FALSE,privacySandboxSiteEnabledAdsEnabled,FALSE,privacySandboxAdMeasurementEnabled,FALSE,privacySandboxFingerprintingProtectionEnabled,UNSET,,,,,,,,,,,,,,,,,,
+chrome.users.SecondaryGoogleAccountSignin,/Users,/Users,TRUE,0,,,2,secondaryGoogleAccountSigninAllowed,TRUE,allowedDomainsForApps,*.meadowcroft.surrey.sch.uk,,,,,,,,,,,,,,,,,,,,,,,,
+chrome.users.apps.InstallType,/Users,/Users,TRUE,1,app_id,chrome:pdlopiakikhioinbeibaachakgdgllff,1,appInstallType,FORCED_AND_PIN_TO_TOOLBAR,,,,,,,,,,,,,,,,,,,,,,,,,,
+chrome.users.apps.ManagedConfiguration,/Users,/Users,TRUE,1,app_id,chrome:pdlopiakikhioinbeibaachakgdgllff,1,managedConfiguration,"{ ""Organization"": { ""Value"": { ""Id"": ""91b23454"", ""RegionCode"": ""uk"" } } }",,,,,,,,,,,,,,,,,,,,,,,,,,
+name,orgUnitPath,parentOrgUnitPath,direct,additionalTargetKeys,additionalTargetKeys.0.name,additionalTargetKeys.0.value,fields,fields.0.name,fields.0.value,fields.1.name,fields.1.value,fields.2.name,fields.2.value,fields.3.name,fields.3.value,fields.4.name,fields.4.value,,,,,,,,,,,,,,,,,,
+chrome.users.AutofillAddressEnabled,/Users/Governors,/Users,FALSE,0,,,1,autofillAddressEnabled,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,
+chrome.users.AutofillCreditCardEnabled,/Users/Governors,/Users,FALSE,0,,,1,autofillCreditCardEnabled,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,
+chrome.users.PrivacySandboxPromptEnabled,/Users/Governors,/Users,FALSE,0,,,5,privacySandboxPromptEnabled,FALSE,privacySandboxAdTopicsEnabled,FALSE,privacySandboxSiteEnabledAdsEnabled,FALSE,privacySandboxAdMeasurementEnabled,FALSE,privacySandboxFingerprintingProtectionEnabled,UNSET,,,,,,,,,,,,,,,,,,
+chrome.users.SecondaryGoogleAccountSignin,/Users/Governors,/Users,FALSE,0,,,2,secondaryGoogleAccountSigninAllowed,TRUE,allowedDomainsForApps,*.meadowcroft.surrey.sch.uk,,,,,,,,,,,,,,,,,,,,,,,,
+chrome.users.apps.InstallType,/Users/Governors,/Users,FALSE,1,app_id,chrome:pdlopiakikhioinbeibaachakgdgllff,1,appInstallType,FORCED_AND_PIN_TO_TOOLBAR,,,,,,,,,,,,,,,,,,,,,,,,,,
+chrome.users.apps.ManagedConfiguration,/Users/Governors,/Users,FALSE,1,app_id,chrome:pdlopiakikhioinbeibaachakgdgllff,1,managedConfiguration,"{ ""Organization"": { ""Value"": { ""Id"": ""91b23454"", ""RegionCode"": ""uk"" } } }",,,,,,,,,,,,,,,,,,,,,,,,,,
+name,orgUnitPath,parentOrgUnitPath,direct,additionalTargetKeys,additionalTargetKeys.0.name,additionalTargetKeys.0.value,fields,fields.0.name,fields.0.value,fields.1.name,fields.1.value,fields.2.name,fields.2.value,fields.3.name,fields.3.value,fields.4.name,fields.4.value,,,,,,,,,,,,,,,,,,
+chrome.users.AutofillAddressEnabled,/Users/Guest,/Users,FALSE,0,,,1,autofillAddressEnabled,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,
+chrome.users.AutofillCreditCardEnabled,/Users/Guest,/Users,FALSE,0,,,1,autofillCreditCardEnabled,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,
+chrome.users.PrivacySandboxPromptEnabled,/Users/Guest,/Users,FALSE,0,,,5,privacySandboxPromptEnabled,FALSE,privacySandboxAdTopicsEnabled,FALSE,privacySandboxSiteEnabledAdsEnabled,FALSE,privacySandboxAdMeasurementEnabled,FALSE,privacySandboxFingerprintingProtectionEnabled,UNSET,,,,,,,,,,,,,,,,,,
+chrome.users.SecondaryGoogleAccountSignin,/Users/Guest,/Users,FALSE,0,,,2,secondaryGoogleAccountSigninAllowed,TRUE,allowedDomainsForApps,*.meadowcroft.surrey.sch.uk,,,,,,,,,,,,,,,,,,,,,,,,
+chrome.users.apps.InstallType,/Users/Guest,/Users,FALSE,1,app_id,chrome:pdlopiakikhioinbeibaachakgdgllff,1,appInstallType,FORCED_AND_PIN_TO_TOOLBAR,,,,,,,,,,,,,,,,,,,,,,,,,,
+chrome.users.apps.ManagedConfiguration,/Users/Guest,/Users,FALSE,1,app_id,chrome:pdlopiakikhioinbeibaachakgdgllff,1,managedConfiguration,"{ ""Organization"": { ""Value"": { ""Id"": ""91b23454"", ""RegionCode"": ""uk"" } } }",,,,,,,,,,,,,,,,,,,,,,,,,,
+name,orgUnitPath,parentOrgUnitPath,direct,additionalTargetKeys,additionalTargetKeys.0.name,additionalTargetKeys.0.value,fields,fields.0.name,fields.0.value,fields.1.name,fields.1.value,fields.2.name,fields.2.value,fields.3.name,fields.3.value,fields.4.name,fields.4.value,,,,,,,,,,,,,,,,,,
+chrome.users.AutofillAddressEnabled,/Users/Service,/Users,FALSE,0,,,1,autofillAddressEnabled,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,
+chrome.users.AutofillCreditCardEnabled,/Users/Service,/Users,FALSE,0,,,1,autofillCreditCardEnabled,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,
+chrome.users.PrivacySandboxPromptEnabled,/Users/Service,/Users,FALSE,0,,,5,privacySandboxPromptEnabled,FALSE,privacySandboxAdTopicsEnabled,FALSE,privacySandboxSiteEnabledAdsEnabled,FALSE,privacySandboxAdMeasurementEnabled,FALSE,privacySandboxFingerprintingProtectionEnabled,UNSET,,,,,,,,,,,,,,,,,,
+chrome.users.SecondaryGoogleAccountSignin,/Users/Service,/Users,FALSE,0,,,2,secondaryGoogleAccountSigninAllowed,TRUE,allowedDomainsForApps,*.meadowcroft.surrey.sch.uk,,,,,,,,,,,,,,,,,,,,,,,,
+chrome.users.apps.InstallType,/Users/Service,/Users,FALSE,1,app_id,chrome:pdlopiakikhioinbeibaachakgdgllff,1,appInstallType,FORCED_AND_PIN_TO_TOOLBAR,,,,,,,,,,,,,,,,,,,,,,,,,,
+chrome.users.apps.ManagedConfiguration,/Users/Service,/Users,FALSE,1,app_id,chrome:pdlopiakikhioinbeibaachakgdgllff,1,managedConfiguration,"{ ""Organization"": { ""Value"": { ""Id"": ""91b23454"", ""RegionCode"": ""uk"" } } }",,,,,,,,,,,,,,,,,,,,,,,,,,
+name,orgUnitPath,parentOrgUnitPath,direct,additionalTargetKeys,additionalTargetKeys.0.name,additionalTargetKeys.0.value,fields,fields.0.name,fields.0.value,fields.1.name,fields.1.value,fields.2.name,fields.2.value,fields.3.name,fields.3.value,fields.4.name,fields.4.value,,,,,,,,,,,,,,,,,,
+chrome.users.AutofillAddressEnabled,/Users/Staff,/Users,FALSE,0,,,1,autofillAddressEnabled,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,
+chrome.users.AutofillCreditCardEnabled,/Users/Staff,/Users,FALSE,0,,,1,autofillCreditCardEnabled,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,
+chrome.users.IncognitoMode,/Users/Staff,/Users/Staff,TRUE,0,,,1,incognitoModeAvailability,AVAILABLE,,,,,,,,,,,,,,,,,,,,,,,,,,
+chrome.users.PrivacySandboxPromptEnabled,/Users/Staff,/Users,FALSE,0,,,5,privacySandboxPromptEnabled,FALSE,privacySandboxAdTopicsEnabled,FALSE,privacySandboxSiteEnabledAdsEnabled,FALSE,privacySandboxAdMeasurementEnabled,FALSE,privacySandboxFingerprintingProtectionEnabled,UNSET,,,,,,,,,,,,,,,,,,
+chrome.users.SecondaryGoogleAccountSignin,/Users/Staff,/Users,FALSE,0,,,2,secondaryGoogleAccountSigninAllowed,TRUE,allowedDomainsForApps,*.meadowcroft.surrey.sch.uk,,,,,,,,,,,,,,,,,,,,,,,,
+chrome.users.apps.InstallType,/Users/Staff,/Users/Staff,TRUE,1,app_id,chrome:gehcmbonedocjpdjfemeklocmmpedmoj,1,appInstallType,FORCED,,,,,,,,,,,,,,,,,,,,,,,,,,
+chrome.users.apps.ManagedConfiguration,/Users/Staff,/Users/Staff,TRUE,1,app_id,chrome:gehcmbonedocjpdjfemeklocmmpedmoj,1,managedConfiguration,"{  ""NS_WAGENT_ARGS"": {    ""Value"": ""-d chromewagent.schoolsbroadband.net -w agent0.schoolsbroadband.net -g b06212c6082812645700e25569f30b54 -v -t 120 -G SBB_MCS_Staff_Web_Filtering@NSW-22376@OVLP3""  },  ""NS_WAGENT_SOFTWARENAME"": {    ""Value"": ""Netsweeper Workstation Agent""  }}",,,,,,,,,,,,,,,,,,,,,,,,,,
+chrome.users.apps.InstallType,/Users/Staff,/Users,FALSE,1,app_id,chrome:pdlopiakikhioinbeibaachakgdgllff,1,appInstallType,FORCED_AND_PIN_TO_TOOLBAR,,,,,,,,,,,,,,,,,,,,,,,,,,
+chrome.users.apps.ManagedConfiguration,/Users/Staff,/Users,FALSE,1,app_id,chrome:pdlopiakikhioinbeibaachakgdgllff,1,managedConfiguration,"{ ""Organization"": { ""Value"": { ""Id"": ""91b23454"", ""RegionCode"": ""uk"" } } }",,,,,,,,,,,,,,,,,,,,,,,,,,
+name,orgUnitPath,parentOrgUnitPath,direct,additionalTargetKeys,additionalTargetKeys.0.name,additionalTargetKeys.0.value,fields,fields.0.name,fields.0.value,fields.1.name,fields.1.value,fields.2.name,fields.2.value,fields.3.name,fields.3.value,fields.4.name,fields.4.value,fields.5.name,fields.5.value,fields.6.name,fields.6.value,fields.7.name,fields.7.value,fields.8.name,fields.8.value,fields.9.name,fields.9.value,fields.10.name,fields.10.value,fields.11.name,fields.11.value,fields.12.name,fields.12.value,fields.13.name,fields.13.value
+chrome.users.AccessibilityShortcutsEnabled,/Users/Students,/Users/Students,TRUE,0,,,1,accessibilityShortcutsEnabled,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,
+chrome.users.AutofillAddressEnabled,/Users/Students,/Users,FALSE,0,,,1,autofillAddressEnabled,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,
+chrome.users.AutofillCreditCardEnabled,/Users/Students,/Users,FALSE,0,,,1,autofillCreditCardEnabled,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,
+chrome.users.BookmarkBarEnabled,/Users/Students,/Users/Students,TRUE,0,,,2,bookmarkBarEnabled,TRUE,bookmarkBarPolicyMode,POLICY_MODE_MANDATORY,,,,,,,,,,,,,,,,,,,,,,,,
+chrome.users.Cookies,/Users/Students,/Users/Students,TRUE,0,,,1,defaultCookiesSetting,ALLOW_COOKIES,,,,,,,,,,,,,,,,,,,,,,,,,,
+chrome.users.Geolocation,/Users/Students,/Users/Students,TRUE,0,,,1,defaultGeolocationSetting,BLOCK_GEOLOCATION,,,,,,,,,,,,,,,,,,,,,,,,,,
+chrome.users.HighContrastEnabled,/Users/Students,/Users/Students,TRUE,0,,,1,highContrastEnabled,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,
+chrome.users.IdleSettingsExtended,/Users/Students,/Users/Students,TRUE,0,,,14,lidCloseAction,LOGOUT,idleDelayAc,,idleWarningDelayAc,,idleActionAc,LOGOUT,screenDimDelayAc,,screenOffDelayAc,,screenLockDelayAc,,idleDelayBattery,,idleWarningDelayBattery,,idleActionBattery,LOGOUT,screenDimDelayBattery,,screenOffDelayBattery,,screenLockDelayBattery,,lockOnSleepOrLidClose,TRUE
+chrome.users.LockScreen,/Users/Students,/Users/Students,TRUE,0,,,1,allowScreenLock,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,
+chrome.users.PrivacySandboxPromptEnabled,/Users/Students,/Users/Students,TRUE,0,,,5,privacySandboxPromptEnabled,FALSE,privacySandboxAdTopicsEnabled,FALSE,privacySandboxSiteEnabledAdsEnabled,FALSE,privacySandboxAdMeasurementEnabled,FALSE,privacySandboxFingerprintingProtectionEnabled,UNSET,,,,,,,,,,,,,,,,,,
+chrome.users.SafeSearchRestrictedMode,/Users/Students,/Users/Students,TRUE,0,,,2,forceGoogleSafeSearch,TRUE,forceYoutubeRestrictedMode,STRICT,,,,,,,,,,,,,,,,,,,,,,,,
+chrome.users.ScreenMagnifierType,/Users/Students,/Users/Students,TRUE,0,,,1,screenMagnifierType,DISABLED,,,,,,,,,,,,,,,,,,,,,,,,,,
+chrome.users.SecondaryGoogleAccountSignin,/Users/Students,/Users,FALSE,0,,,2,secondaryGoogleAccountSigninAllowed,TRUE,allowedDomainsForApps,*.meadowcroft.surrey.sch.uk,,,,,,,,,,,,,,,,,,,,,,,,
+chrome.users.SelectToSpeakEnabled,/Users/Students,/Users/Students,TRUE,0,,,1,selectToSpeakEnabled,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,
+chrome.users.ShowAccessibilityOptionsInSystemTrayMenu,/Users/Students,/Users/Students,TRUE,0,,,1,showAccessibilityOptionsInSystemTrayMenu,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,
+chrome.users.SpokenFeedbackEnabled,/Users/Students,/Users/Students,TRUE,0,,,1,spokenFeedbackEnabled,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,
+chrome.users.StickyKeysEnabled,/Users/Students,/Users/Students,TRUE,0,,,1,stickyKeysEnabled,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,
+chrome.users.UrlBlocking,/Users/Students,/Users/Students,TRUE,0,,,2,urlBlocklist,"chrome://policy,chrome://net-export,chrome://extensions,chrome://settings,chrome://flags,edge://policy,edge://net-export",chromeInternalUrlsBlocked,FALSE,,,,,,,,,,,,,,,,,,,,,,,,
+chrome.users.apps.InstallType,/Users/Students,/Users/Students,TRUE,1,app_id,chrome:gehcmbonedocjpdjfemeklocmmpedmoj,1,appInstallType,FORCED,,,,,,,,,,,,,,,,,,,,,,,,,,
+chrome.users.apps.ManagedConfiguration,/Users/Students,/Users/Students,TRUE,1,app_id,chrome:gehcmbonedocjpdjfemeklocmmpedmoj,1,managedConfiguration,"{  ""NS_WAGENT_ARGS"": {    ""Value"": ""-d chromewagent.schoolsbroadband.net -w agent0.schoolsbroadband.net -g b06212c6082812645700e25569f30b54 -v -t 120 -G SBB_MCS_Pupil_Web_Filtering@NSW-22376@OVLP3""  },  ""NS_WAGENT_SOFTWARENAME"": {    ""Value"": ""Netsweeper Workstation Agent""  }}",,,,,,,,,,,,,,,,,,,,,,,,,,
+chrome.users.apps.InstallType,/Users/Students,/Users,FALSE,1,app_id,chrome:pdlopiakikhioinbeibaachakgdgllff,1,appInstallType,FORCED_AND_PIN_TO_TOOLBAR,,,,,,,,,,,,,,,,,,,,,,,,,,
+chrome.users.apps.ManagedConfiguration,/Users/Students,/Users,FALSE,1,app_id,chrome:pdlopiakikhioinbeibaachakgdgllff,1,managedConfiguration,"{ ""Organization"": { ""Value"": { ""Id"": ""91b23454"", ""RegionCode"": ""uk"" } } }",,,,,,,,,,,,,,,,,,,,,,,,,,

@@ -1,0 +1,55 @@
+Known commands for Migrations:
+gam print courses > C:\GAMWork\HBSA\HBSA_Classrooms.csv
+gam print groups > C:\GAMWork\HBSA\HBSA_Groups.csv
+gam print teamdrives fields id,name > C:\GAMWork\HBSA\HBSA_TeamDriveIDs.csv
+gam print teamdriveacls fields id,emailaddress,role,type,deleted oneitemperrow > C:\GAMWork\HBSA\HBSA_AllTeamDrivesACLs.csv
+gam print aliases delimiter "," onerowpertarget suppressnoaliasrows > c:\HBSA\HBSA_AliasesExport.csv
+
+
+# GAM Command Help
+
+# Pre-fill custom attribute (CSV to contain two headers Username and PaperCutCode. PaperCutCode is the custom attribute)
+gam csv c:\GamWork\HBSA\HBSA_Codes.csv gam update user ~Username PaperCut.PaperCutCode ~PrintCode
+
+# Show Custom Attribute Schema
+gam show schemas
+
+# Export all Classrooms
+gam print courses > C:\GAMWork\HBSA\HBSA_Classrooms.csv
+
+#Export all Groups
+gam print groups > C:\GAMWork\HBSA\HBSA_Groups.csv
+
+# Export all Group Members of a Group
+gam print group-members group <Group Email> todrive
+
+# Export all Teams Drives ID's (Good)
+gam print teamdrives fields id,name > C:\GAMWork\HBSA\HBSA_TeamDriveIDs.csv
+
+# Export ACLs for All Team Drives:
+gam print teamdriveacls fields id,emailaddress,role,type,deleted oneitemperrow > C:\GAMWork\HBSA\HBSA_AllTeamDrivesACLs.csv
+
+(Export Editable Aliases)
+# Run the below and then run an export on GSUITE with the following columns:
+# First Name [Required], Last Name [Required], Email Address [Required], Status [READ ONLY], Last Sign In [READ ONLY], Email Usage [READ ONLY], Drive Usage [READ ONLY], Photos Usage [READ ONLY], Storage Used [READ ONLY]
+
+# Create empty file called SiteCode_AliasesExport.csv
+gam print aliases delimiter "," onerowpertarget suppressnoaliasrows > c:\HBSA\HBSA_AliasesExport.csv
+
+
+(Adding Permissions) 
+# Add user to a Shared Drive as Organizer
+gam add drivefileacl <Team Drive ID> user "<admin email>" role organizer
+
+# Add user to multiple shared drives as a manager # Make a CSV file TeamsManager.csv with two columns: id, organiser # then download google drive and tree size ;)
+gam redirect csv "C:\GAMWork\HBSA\TEST.csv" multiprocess csv "C:\GAMWork\HBSA\HBSA_TeamsManager.csv" gam add drivefileacl "~id" user "~organiser" role organizer
+
+
+(Files and Folder counts)
+# File and Folder Export of a Teams Drive (user must be organiser)
+gam user eduthing.admin@cranleighprimary.surrey.sch.uk print filelist select teamdriveid "0AHyc8U9KJWhUUk9PVA" fields name,mimetype > C:\GAMWork\HBSA\FileFolderCount.csv
+
+# For Multiple Users and Team Drives (user must be organiser) # Make a CSV file Count.csv with two columns: id, organiser
+gam redirect csv "C:\GAMWork\HBSA\TeamDriveFileCounts.csv" multiprocess csv "C:\GAMWork\Count.csv" gam user "~organiser" print filecounts select teamdriveid "~id"
+
+

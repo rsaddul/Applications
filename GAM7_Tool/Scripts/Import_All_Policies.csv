@@ -1,0 +1,39 @@
+policyName,fieldName,fieldValue,orgUnitPath
+chrome.devices.DisabledDeviceReturnInstructions,deviceDisabledMessage,"Please return this device to The Cloud School 
+
+5 Walton Lodge
+Walton on Thames
+Surrey, United Kingdom
+KT12 1BT",/Devices
+chrome.users.SecondaryGoogleAccountSignin,secondaryGoogleAccountSigninAllowed,UNSET,/Devices
+chrome.devices.LoginScreenNamesAndPhotos,showUserNames,FALSE,/Devices
+chrome.users.SecondaryGoogleAccountSignin,secondaryGoogleAccountSigninAllowed,UNSET,/Devices/Governors
+chrome.users.SecondaryGoogleAccountSignin,secondaryGoogleAccountSigninAllowed,UNSET,/Devices/Guest
+chrome.users.DeviceEnrollment,autoDevicePlacementEnabled,TRUE,/Devices/Staff
+chrome.users.SecondaryGoogleAccountSignin,secondaryGoogleAccountSigninAllowed,UNSET,/Devices/Staff
+chrome.users.SecondaryGoogleAccountSignin,secondaryGoogleAccountSigninAllowed,UNSET,/Devices/Status
+chrome.users.SecondaryGoogleAccountSignin,secondaryGoogleAccountSigninAllowed,UNSET,/Devices/Status/Decommissioned
+chrome.users.SecondaryGoogleAccountSignin,secondaryGoogleAccountSigninAllowed,UNSET,/Devices/Status/Deprovisioned
+chrome.users.DeveloperTools,developerToolsAvailability,NEVER_ALLOW_DEVELOPER_TOOLS,/Devices/Students
+chrome.users.DeveloperTools,extensionDeveloperModeSettings,UNSET,/Devices/Students
+chrome.users.DeviceEnrollment,autoDevicePlacementEnabled,TRUE,/Devices/Students
+chrome.users.SecondaryGoogleAccountSignin,secondaryGoogleAccountSigninAllowed,UNSET,/Devices/Students
+chrome.users.AutofillAddressEnabled,autofillAddressEnabled,FALSE,/Users
+chrome.users.AutofillCreditCardEnabled,autofillCreditCardEnabled,FALSE,/Users
+chrome.users.PrivacySandboxPromptEnabled,privacySandboxPromptEnabled,FALSE,/Users
+chrome.users.SecondaryGoogleAccountSignin,secondaryGoogleAccountSigninAllowed,TRUE,/Users
+chrome.users.IncognitoMode,incognitoModeAvailability,AVAILABLE,/Users/Staff
+chrome.users.AccessibilityShortcutsEnabled,accessibilityShortcutsEnabled,FALSE,/Users/Students
+chrome.users.BookmarkBarEnabled,bookmarkBarEnabled,TRUE,/Users/Students
+chrome.users.Cookies,defaultCookiesSetting,ALLOW_COOKIES,/Users/Students
+chrome.users.Geolocation,defaultGeolocationSetting,BLOCK_GEOLOCATION,/Users/Students
+chrome.users.HighContrastEnabled,highContrastEnabled,FALSE,/Users/Students
+chrome.users.IdleSettingsExtended,lidCloseAction,LOGOUT,/Users/Students
+chrome.users.LockScreen,allowScreenLock,FALSE,/Users/Students
+chrome.users.SafeSearchRestrictedMode,forceGoogleSafeSearch,TRUE,/Users/Students
+chrome.users.ScreenMagnifierType,screenMagnifierType,DISABLED,/Users/Students
+chrome.users.SelectToSpeakEnabled,selectToSpeakEnabled,FALSE,/Users/Students
+chrome.users.ShowAccessibilityOptionsInSystemTrayMenu,showAccessibilityOptionsInSystemTrayMenu,FALSE,/Users/Students
+chrome.users.SpokenFeedbackEnabled,spokenFeedbackEnabled,FALSE,/Users/Students
+chrome.users.StickyKeysEnabled,stickyKeysEnabled,FALSE,/Users/Students
+chrome.users.UrlBlocking,urlBlocklist,"chrome://policy,chrome://net-export,chrome://extensions,chrome://settings,chrome://flags,edge://policy,edge://net-export",/Users/Students
